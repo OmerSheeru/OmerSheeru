@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmerSheeru.
 - 👀 I’m interested in Gaming, Programming and Fun.
 - 🌱 I’m currently learning Vue.js, Node.js, Javascript, HTML, CSS, NGINX, and other Web-Dev technologies.
-- 💞️ I want to collaborate on your passion project web apps, even better if the effort is monetized.
-- 📫 You can reach me via WhatsApp +92-333-9734319 and/or omersheeru@outlook.com.
+- 💞️ I want to collaborate on your passion project web apps, even better if the effort is monetized. I'd love to learn and work on Unreal as I have had experience with UDK(I know, it's old) and have a few passion projects I would love to bring to fruition...Unity will do too, not too good at that tho...
+- 📫 You can reach me via WhatsApp and Signal +92-333-9734319, and/or omersheeru@outlook.com.
 - 😄 Pronouns: LOL.
 - ⚡ Fun fact: Nothing special.
